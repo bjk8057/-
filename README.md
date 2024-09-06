@@ -39,7 +39,7 @@
 </head>
 <body>
     <h1>랜덤 숫자 곱셈</h1>
-    <button onclick="generateNumbers()">숫자 생성</button>
+    <button onclick="generateNumbers()">주사위 굴리기</button>
     <div class="result">
         <p>첫 번째 숫자: <span id="num1">-</span></p>
         <p>두 번째 숫자: <span id="num2">-</span></p>
